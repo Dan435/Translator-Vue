@@ -1,4 +1,4 @@
-# wordtranslator
+# Word Translator
 
 > Simple app for testing yandex API
 
