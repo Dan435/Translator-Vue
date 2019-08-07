@@ -1,7 +1,7 @@
 <template>
   <div class="d-flex justify-content-center">
         <form id="transForm" class="" v-on:submit="formSubmit">
-            <input class="form-control" type="text" v-model="textToTranslate" placeholder="Enter text here!">
+            <input style="margin-bottom:10px" class="form-control" type="text" v-model="textToTranslate" placeholder="Enter text here!">
             <select class="form-control" v-model="language">
                 <option value="ru">Russian</option>
                 <option value="es">Spanish</option>
@@ -45,5 +45,6 @@ export default {
       align-content: center;
       padding: 10px;
       min-width: 25em;
+      margin:10px;
   }
 </style>
