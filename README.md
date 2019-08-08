@@ -2,6 +2,15 @@
 
 > Simple app for testing yandex API
 
+At 08.08.19, this app supports translation FROM English TO following languages:
+
+* Russian
+* Spanish
+* French
+* Chinese
+* Azerbaijan
+* German
+
 ## What you need
 
 NodeJs;
