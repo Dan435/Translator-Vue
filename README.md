@@ -4,8 +4,9 @@
 
 ## What you need
 
-NodeJs 
-Any CLI tool
+NodeJs;
+
+Any CLI tool;
 
 ## Build Setup
 Open your preferred CLI in this project's folder, then run:
